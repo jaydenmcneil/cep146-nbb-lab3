@@ -1,20 +1,20 @@
-Linux mtrx-node04pd.dcm.senecacollege.ca 3.10.0-1160.119.1.el7.x86_64 #1 SMP Tue Jun 4 14:43:51 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+Linux mtrx-node05pd.dcm.senecacollege.ca 3.10.0-1160.119.1.el7.x86_64 #1 SMP Tue Jun 4 14:43:51 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
 eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-        inet 10.102.108.14  netmask 255.255.255.192  broadcast 10.102.108.63
-        inet6 fe80::21d:d8ff:feb7:1c94  prefixlen 64  scopeid 0x20<link>
-        ether 00:1d:d8:b7:1c:94  txqueuelen 1000  (Ethernet)
-        RX packets 828427  bytes 527331159 (502.9 MiB)
-        RX errors 0  dropped 27262  overruns 0  frame 0
-        TX packets 482524  bytes 125672195 (119.8 MiB)
+        inet 10.102.108.15  netmask 255.255.255.192  broadcast 10.102.108.63
+        inet6 fe80::21d:d8ff:feb7:1c95  prefixlen 64  scopeid 0x20<link>
+        ether 00:1d:d8:b7:1c:95  txqueuelen 1000  (Ethernet)
+        RX packets 2684985  bytes 1791677335 (1.6 GiB)
+        RX errors 0  dropped 74481  overruns 0  frame 0
+        TX packets 1677676  bytes 604932364 (576.9 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         inet 127.0.0.1  netmask 255.0.0.0
         inet6 ::1  prefixlen 128  scopeid 0x10<host>
         loop  txqueuelen 1000  (Local Loopback)
-        RX packets 6600  bytes 681976 (665.9 KiB)
+        RX packets 20995  bytes 2076752 (1.9 MiB)
         RX errors 0  dropped 0  overruns 0  frame 0
-        TX packets 6600  bytes 681976 (665.9 KiB)
+        TX packets 20995  bytes 2076752 (1.9 MiB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 NAME="CentOS Linux"
